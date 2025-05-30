@@ -26,4 +26,6 @@ This C++ program checks whether three numbers are **all different** for multiple
 * Input: `3 4 5` → All different → Output: `Yes`
 * Input: `2 2 3` → Two same → Output: `no`
 
-Let me know if you'd like a [visual example table](f) or a [Python version](f) of this code.
+This C++ program checks if three numbers are all different in multiple test cases. It first takes the number of test cases (`t`), then for each case, it reads three numbers: `a`, `b`, and `c`.
+
+If all three numbers are different from each other, it prints "Yes". If any two or more numbers are the same, it prints "no". This helps to quickly check for uniqueness among three values in each test case.
