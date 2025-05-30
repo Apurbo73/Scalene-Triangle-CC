@@ -1,4 +1,4 @@
-### Scalene Triangle-CC
+### Scalene Triangle CC
 
 This C++ program checks whether three numbers are **all different** for multiple test cases. Here's a simple explanation:
 
